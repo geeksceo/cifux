@@ -1,2 +1,1 @@
-# cifux
-(c)omposer- (i)nstaller-(f)or-(u)ni(x)
+# cifux => (C)omposer (I)nstaller (F)or (U)NI(X)
